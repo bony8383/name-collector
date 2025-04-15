@@ -1,0 +1,6 @@
+Name #1: Ais
+Name #2: Aisha
+Name #3: Klara
+Name #4: Meerim
+Name #5: Sara
+Total unique names entered: 5
